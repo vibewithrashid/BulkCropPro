@@ -1,0 +1,5 @@
+{
+  "name": "BulkCrop Pro",
+  "description": "A high-performance bulk image cropping tool. Upload multiple images, define a single crop area (manually or via AI detection), and auto-process the entire batch in the browser.",
+  "requestFramePermissions": []
+}
